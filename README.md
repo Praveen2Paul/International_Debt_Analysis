@@ -6,3 +6,4 @@ The dataset contains both national and regional debt statistics for several coun
 <br />
 <br />
 By connecting to the international_debt database, we can access the relevant table and perform our analysis. This project highlights the importance of understanding and managing international debt for economic development.
+
